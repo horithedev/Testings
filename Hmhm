@@ -322,11 +322,11 @@ WhatsNewSection:Section({
 AboutSection:Space()
 
 AboutSection:Image({
-    Image = "rbxassetid://112248091912012",
-    Size = UDim2.fromOffset(100, 100)
-})
+        Image = "rbxassetid://112248091912012",
+        Size = UDim2.fromOffset(100,100)
+    })
 
-AboutSection:Paragraph({ Title = "@Kazakori", Desc = "Dev-Helper", TextSize = 18 })
+AboutSection:Paragraph({ Title = "@Kazakori", Desc = "Dev-Helper", TextSize = 14 })
 
 AboutSection:Paragraph({ Title = "@ErasedDiablo", Desc = "Co-Owner-Dev", TextSize = 16 })
 
